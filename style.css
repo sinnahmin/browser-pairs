@@ -6,15 +6,15 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #9999FF;
 }
 
 body {
   text-align: center;
   background-image: url(images/left.png);
   background-repeat: no-repeat;
-  background-color: #00BFFF;
-  color: #00BFFF;
+  background-color: #9999FF;
+  color: #9999FF;
   font-family: "Days One", sans-serif;
 }
 
@@ -25,13 +25,13 @@ body {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #00BFFF;
+  background: #9999FF;
   width: 255px;
   height: 420px;
   margin: auto;
   display: block;
   box-shadow: 0px 3px 12px #000;
-  background: #00BFFF;
+  background: #9999FF;
   border-radius: 4px;
   padding: 10px;
 }
@@ -145,13 +145,13 @@ body {
   font-size: 2em;
   padding: 10px;
   width: 150px;
-  border: 8px solid #DA4930;
+  border: 8px solid #9999FF;
   z-index: 99;
 }
 
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
-  background: #F26522 !important;
+  background: #9999FF !important;
   color: #fff;
   cursor: pointer;
 }
@@ -204,7 +204,7 @@ body {
   margin: 8px auto 0;
   padding: 10px;
   width: 200px;
-  border: 8px solid #DA4930;
+  border: 8px solid #00BFFF;
   text-decoration:none;
 }
 
@@ -214,7 +214,7 @@ body {
   width: 60%;
   border-radius: 5px;
   font-size: 20px;
-  border: 8px solid #DA4930;
+  border: 8px solid #00BFFF;
   padding: 20px 0;
   position: relative;
 }
