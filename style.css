@@ -6,15 +6,15 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #9999FF;
+  color: #66FFFF;
 }
 
 body {
   text-align: center;
   background-image: url(images/left.png);
   background-repeat: no-repeat;
-  background-color: #CC66CC;
-  color: #CC66CC;
+  background-color: #00CCFF;
+  color: #33CC66;
   font-family: "Days One", sans-serif;
 }
 
@@ -31,7 +31,7 @@ body {
   margin: auto;
   display: block;
   box-shadow: 0px 3px 12px #000;
-  background: #CC66CC;
+  background: #00CC33;
   border-radius: 4px;
   padding: 10px;
 }
@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://images.wikia.com/fallout/images/6/64/Longcat_tacgnol.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://images1.wikia.nocookie.net/__cb20120921151660/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png) no-repeat; background-size: contain;}
+.fx {background: url(http://images5.fanpop.com/image/photos/25200000/Adventure-Time-adventure-time-with-finn-and-jake-25206532-400-400.png) no-repeat; background-size: contain;}
+.cr {background: url(http://images4.wikia.nocookie.net/__cb20120921151238/adventuretimewithfinnandjake/images/0/00/Princess_Bubblegum.png) no-repeat; background-size: contain;}
+.sf {background: url(http://wallpaperpassion.com/upload/23544/adventure-time-marceline-image.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://images3.wikia.nocookie.net/__cb20120921153233/adventuretimewithfinnandjake/images/6/64/Original_Ice_King.png) no-repeat; background-size: contain;}
+.ns {background: url(http://3.bp.blogspot.com/-4InbGjmIRy8/UEXjTGSFSAI/AAAAAAAABAc/7Li1rWsE3Dk/s1600/bmo.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://th00.deviantart.net/fs70/PRE/i/2012/229/0/8/lady_rainicorn___ms_paint_by_lunarspoon-d5bi0j0.png) no-repeat; background-size: contain;}
+.fm {background: url(http://fc03.deviantart.net/fs71/f/2012/070/d/c/baby_finn_by_entangle-d4seqs4.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
