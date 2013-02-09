@@ -13,7 +13,7 @@ body {
   text-align: center;
   background-image: url(images/left.png);
   background-repeat: no-repeat;
-  background-color: #9999FF;
+  background-color: #CC66CC;
   color: #CC66CC;
   font-family: "Days One", sans-serif;
 }
@@ -31,7 +31,7 @@ body {
   margin: auto;
   display: block;
   box-shadow: 0px 3px 12px #000;
-  background: #9999FF;
+  background: #CC66CC;
   border-radius: 4px;
   padding: 10px;
 }
